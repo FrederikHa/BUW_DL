@@ -9,8 +9,8 @@ A short tutorial series on how to use deep learning software and techniques in a
 
 # 2. Tensorflow
 
-# 2.1 Keras
+## 2.1 Keras
 
 # 3. PyTorch
 
-# 3.1 FastAI
+## 3.1 FastAI

@@ -15,3 +15,9 @@ The general language of choice for deep learning is python. Over the last years 
 # 2. Tensorflow
 
 ## 2.1 Keras
+
+
+# Useful Resources
+
+##Image Augmentation (Small Set to Big Set) good with Bounding Boxes
+https://github.com/aleju/imgaug

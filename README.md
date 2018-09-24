@@ -15,3 +15,16 @@ The general language of choice for deep learning is python. Over the last years 
 # 2. Tensorflow
 
 ## 2.1 Keras
+
+
+# Useful Resources
+
+Class Activation Maps in Keras
+https://jacobgil.github.io/deeplearning/class-activation-maps
+https://github.com/jacobgil/keras-cam
+
+Retinanet-keras (Bounding boxes)
+https://github.com/fizyr/keras-retinanet
+
+Image Augmentation (Small Set to Big Set) good with Bounding Boxes
+https://github.com/aleju/imgaug

@@ -19,6 +19,10 @@ The general language of choice for deep learning is python. Over the last years 
 
 # Useful Resources
 
+Class Activation Maps in Keras
+https://jacobgil.github.io/deeplearning/class-activation-maps
+https://github.com/jacobgil/keras-cam
+
 Retinanet-keras (Bounding boxes)
 https://github.com/fizyr/keras-retinanet
 

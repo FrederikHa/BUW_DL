@@ -19,5 +19,8 @@ The general language of choice for deep learning is python. Over the last years 
 
 # Useful Resources
 
+Retinanet-keras (Bounding boxes)
+https://github.com/fizyr/keras-retinanet
+
 Image Augmentation (Small Set to Big Set) good with Bounding Boxes
 https://github.com/aleju/imgaug

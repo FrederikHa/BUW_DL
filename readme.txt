@@ -26,33 +26,35 @@ Lesson06:
 	Topic:	Tranfer Learning 2. Use a Large Network (vgg?) and retrain it to a Cat-Dog Net.
 		Use FastAi Lesson 01 as an orientation point. Bring in Data Augmentation.
 	Dataset: Cat-Dog_Redux
+	
+Lesson07:
+	Topic:	CAM (Class Activation Mapping). Show regions of interest in the Cat-Dog_Redux CNN from Lesson06.
+		Does it predict with the right areas? Show a bad example with adversarial images.
+	Dataset: Cat-Dog_Redux, MNIST(?)
 
 LessonXX:
 	Topic: Object Detection
 
 LessonXX:
 	Topic: Image Segmentation
-
-LessonXX:
-	Topic: Neural Translation
-
-LessonXX:
-	Topic: Generative Reinforcement Learning
-
-LessonXX:
-	Topic: Time series Learning
-
-LessonXX:
-	Topic: Self driving RC Car
-
-LessonXX:
-	Topic: Text Mining Twitter (Disaster Example) 
-
+	
 LessonXX:
 	Topic: Neural style transfer.
 
 LessonXX:
 	Topic: Deep Dreams in Keras
+	
+LessonXX:
+	Topic: Self driving RC Car
+
+LessonXX:
+	Topic: Neural Translation
+
+LessonXX:
+	Topic: Time series Learning
+
+LessonXX:
+	Topic: Text Mining Twitter (Disaster Example) 
 
 LessonXX:
 	Topic: Neural Doodle

@@ -28,3 +28,9 @@ https://github.com/fizyr/keras-retinanet
 
 Image Augmentation (Small Set to Big Set) good with Bounding Boxes
 https://github.com/aleju/imgaug
+
+
+# Resources for Slides
+
+# Adversarial examples in Recognition
+https://old.reddit.com/r/computervision/comments/6hojn1/is_there_a_subreddit_for_kinds_of_images_that/

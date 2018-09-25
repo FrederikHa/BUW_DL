@@ -8,12 +8,12 @@ Lesson02:
 	Dataset: MNIST
 
 Lesson03:
-	Topic: Visualize filters of VGG16
-	Dataset: VGG16
+	Topic: Building a multi layer CNN from scratch. Train on cat-dog dataset and vizualise Filters
+	Dataset: Cat-Dog_Redux
 
 Lesson04:
 	Topic:	Regularization and Dropout. Show overfit and how to avoid it.
-	Dataset: MNIST, TBD (Sequential Data?)
+	Dataset: Cat-Dog_Redux, TBD (Sequential Data?)
 
 Lesson05:
 	Topic:	Transfer Learning. Recreate the MNIST CNN from Lesson02 with two parts
@@ -23,7 +23,7 @@ Lesson05:
 	Dataset: MNIST
 
 Lesson06:
-	Topic:	Tranfer Learning 2. Use a Large Network and retrain it to a Cat-Dog Net.
+	Topic:	Tranfer Learning 2. Use a Large Network (vgg?) and retrain it to a Cat-Dog Net.
 		Use FastAi Lesson 01 as an orientation point. Bring in Data Augmentation.
 	Dataset: Cat-Dog_Redux
 
